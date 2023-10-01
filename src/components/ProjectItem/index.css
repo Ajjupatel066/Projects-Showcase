@@ -1,0 +1,23 @@
+.project-item {
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  width: 290px;
+  margin-bottom: 20px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.projects-image {
+  width: 290px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.project-name {
+  font-size: 18px;
+  font-family: 'Roboto';
+  font-weight: 500;
+  color: #000000;
+  padding-left: 20px;
+}
